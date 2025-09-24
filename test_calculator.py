@@ -14,4 +14,3 @@ def test_add2():
 def test_add3():
     calc = Calculator()
     assert calc.add(6, 7) == 13
-
